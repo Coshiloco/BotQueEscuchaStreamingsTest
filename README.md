@@ -3,7 +3,7 @@
 
 # Proyecto de Transcripción Automática de Audio con Whisper y CUDA
 
-Este proyecto permite la transcripción automática de audio en tiempo real utilizando el modelo de Whisper, aprovechando los núcleos CUDA de la tarjeta gráfica para acelerar el proceso. A continuación, se detallan los pasos y configuraciones necesarios para poner en marcha el proyecto.
+Este proyecto permite la transcripción automática de audio en tiempo real, de el equipo del usuario que este usandolo , como apunte lo que graba de forma constante e ininterumpida es la salida del audio no el microfono de entrada de tu ordenador , utilizando el modelo de Whisper, aprovechando los núcleos CUDA de la tarjeta gráfica para acelerar el proceso. A continuación, se detallan los pasos y configuraciones necesarios para poner en marcha el proyecto.
 
 ## Requisitos
 
